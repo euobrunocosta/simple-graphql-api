@@ -1,3 +1,3 @@
 ## GraphQL API Sample
 
-Simple GraphQL API Sample with the migrations
+Simple GraphQL API sample with the migrations included
